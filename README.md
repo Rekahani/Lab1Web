@@ -1,2 +1,2 @@
 # Lab1Web
-dasar dasar HTML
+dasar dasar tag HTML (praktikum 1)
