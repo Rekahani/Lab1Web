@@ -59,7 +59,7 @@ maka akan tampil sebagai berikut
 ![16.png](img/16.png)
 ![17.png](img/17.png)
 
-    atribut align="right" -> mengatur paragraf di posisi kana
+    atribut align="right" -> mengatur paragraf di posisi kanan
     atribut align="center" -> mengatur paragraf di posisi tengah
     atribut align="left" -> mengatur paragraf di posisi kiri
 
@@ -85,7 +85,7 @@ maka akan tampil sebagaiberikut...
 
 ![20.png](img/20.png)
 
-### Contoh pemformatan teks
+### Contoh format teks
 
     <p>Teks <b>ini dicetak tebal</b></p>
     <p>Teks <i>ini dicetak miring</i></p>
@@ -118,7 +118,7 @@ tag `hr` berfungsi menambahkan garis
 
 ![24.png](img/24.png)
 
-## push kehalaman repository
+## push ke halaman repository
 
 1. pertama buka `git bas` 
 2. masuk ke folder `Lab1Web`
