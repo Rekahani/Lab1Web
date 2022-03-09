@@ -2,6 +2,8 @@
 
 Dasar - dasar tag HTML (Praktikum 1)
 
+HTML (HyperText Markup Language) adalah suatu bahasa yang menggunakan tanda-tanda tertentu (tag) untuk menyatakan kode-kode yang harus ditafsirkan oleh browser agar halaman tersebut dapat ditampilkan secara benar.
+
 ## Membuat Repository
 
 1. login github buat repository baru dengan judul **Lab1web**
