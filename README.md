@@ -141,3 +141,30 @@ tag `hr` berfungsi menambahkan garis
 maka akan ada file html di github 
 
 ![29.png](img/29.png)
+
+## Jawablah pertanyaan berikut
+
+1. Lakukan perubahan pada code sesuai dengan keinginan anda, amati perubahannya adakah _error_ ketika terjadi kesalahan penulisan tag?
+```
+Ketika saya mencoba melakukan perubahan pada tag paragraf menggunakan huruf kapital <P tidak terjadi error ataupun perubahan pada code maupun hasil di browser.
+Begitupun ketika saya mencoba mennghilangkan penutup atau garis miring (/) di penghujung paragraf pun tidak terjadi error ataupun perubahan pada code maupun hasil di browser.
+```
+2. Apa perbedaan dari tag `<p>` dengan tag `<br>` berikan penjelasannya!
+```
+Dari hasil pengamatan saya, tag <p> digunakan untuk mengganti paragraf, karena jarak garis baru (enternya) lebih jauh dibanding dengan tag <br> yang digunakan untuk pindah ke garis baru
+```
+3. Apa perbedaan atribut `title` dan `alt` pada tag `<img>`, berikan penjelasannya!
+```
+Atribut title pada tag <img> digunakan untuk memberikan informasi pada gambar yang di tampilkan.
+Sedangkan atribut alt pada tag <img> digunakan untuk memberikan altenatif keterangan pada gambar jika gambar tersebut gagal untuk ditampilkan.
+```
+4. Untuk mengatur ukuran gambar, digunakan atribut width dan height. Agar tampilan gambar proporsional sebaiknya kedua atribut tersebut diisi semua atau tidak? Berikan penjelasannya!
+```
+Menurut saya, bisa disesuaikan. Misalkan untuk mengatur gambar agar tampil proporsional gunakan width dan height sesuai ukuran aslinya, jika ingin mengecilkan ukuran gambar gunakan ukuran yang proposional misal, kita akan ubah width 50px dan height 50px.
+```
+5. Pada link tambahkan atribut target dengan nilai atribut bervariasi (_blank, _self, _top, _parent), apa yang terjadi pada masing-masing nilai atribut tersebut?
+```
+Nilai _blank    : Menampilkan halaman website yang di link ke dalam tab yang baru.
+Nilai _self     : Menampilkan halaman website yang di link ke dalam tab atau frame yang sama yang digunakan saat ini.
+Nilai _top      : Menampilkan halaman website yang di link ke dalam tab yang baru yang ditampilkan dalam fullscreen dan membatalkan semua frame.
+Nilai _parent   : Menampilkan halaman website yang di link ke dalam parent frame
